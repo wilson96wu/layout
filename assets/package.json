@@ -1,0 +1,19 @@
+{
+  "name": "silkworm",
+  "version": "1.0.0",
+  "description": "Monorepo for the tools in the silkworm ecosystem",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+   
+  },
+  "author": "Silkworm Team",
+  "license": "MIT",
+ 
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    "electron-ipc-log": "^3.0.1"
+  }
+}

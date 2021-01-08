@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "electron-ipc-log": "^3.0.1"
+  }
+}

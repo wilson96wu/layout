@@ -1,0 +1,7 @@
+{
+  "name": "silkworm_elements_ext",
+  "version": "0.0.1",
+  "description": "silkworm custom elements",
+  "author": "Silkworm Team",
+  "main": "main.js"
+}
